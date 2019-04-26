@@ -1,0 +1,55 @@
+///////////////////////////////////////////////
+//               INSTALLATION                //
+///////////////////////////////////////////////
+Just run the install file, it's that simple!
+Changing file names will mess up the install,
+so leave everything as is. Cryptr may do some
+setup the first time you run it for anything
+other than help or about (anything that asks
+for sudo privelages, as the setup will just
+piggyback off of the first time sudo is used).
+
+Speaking of about, below is basically just
+that, so if you lose this, and you wanna read
+it again because you love it so much, it's
+stored in Cryptr's about section! (I guess if
+you weren't to read the README it helps too,
+but since your here I guess that isn't you!)
+
+If you don't know how to run c programs, cd to
+this folder in terminal (or some file browsers
+support an open terminal here option) and run
+"./install" without quotation marks.
+
+///////////////////////////////////////////////
+//               About Cryptr:               //
+///////////////////////////////////////////////
+Cryptr was a project inspired by my first Uni
+programming course in which we had to make a
+few different basic cyphers. Once I had felt
+that I had blitzed the task I challenged myself
+to do a significantly more powerful and secure
+cypher that worked will all or most files and
+not just text. The result was Cryptr. It uses
+unseen randonmly generated codes to produce a
+sequence of shifts in the binary data of files.
+This resulted in being able to cypher any type
+of file I could throw at it, and requires both
+an unseen key file and knowledge of how many
+times the file was rotated with that key.
+
+///////////////////////////////////////////////
+//  Cryptr is asking for sudo permissions?!  //
+///////////////////////////////////////////////
+Cryptr requires root permissions to function
+so that your encryption keys can be kept
+securely hidden from prying eyes. But to make
+your life easier, Cryptr doesn't require the
+use of sudo. You can use sudo if you decide you
+don't trust me to not scan in your password for
+some reason. Cryptr is only relaunching itself
+with sudo, and the system still still handles
+your password and Cryptr never sees it. however
+I'm assuming there will be concerns considering
+for the same sercurity purposes Cryptr is not
+open source.
