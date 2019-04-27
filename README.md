@@ -10,13 +10,20 @@ source, however if you want the source for it
 to look over privately, email me at my student
 email.
 
-P.S. I had way more commits on here, but alot
+Compile assessment with "gcc main.c".  
+Cryptr is precompiled and has an installer.
+
+P.S. - I had way more commits on here, but alot
 of them were manual uploads to the github site,
 unfortunately once I decided to do a proper
 commit for my final, it errored out and stupid
 me decided -f was the solution. Reset all my
 commits back to the last "proper" commit I did
 which was my first content one...
+
+P.S+1 - Save me from myself, I've edited this
+readme too much, should have had it go out
+with the last proper commit...
 
 Ondrei Hornat  
 c3328588 - University of Newcastle.
