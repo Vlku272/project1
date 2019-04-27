@@ -7,7 +7,7 @@ system application, the main assessment is only
 guaranteed to work on linux and Cryptr definately
 only works on linux. Not making Cryptr open
 source, however if you want the source for it
-to look over privately email me at my student
+to look over privately, email me at my student
 email.
 
 P.S. I had way more commits on here, but alot
@@ -18,5 +18,5 @@ me decided -f was the solution. Reset all my
 commits back to the last "proper" commit I did
 which was my first content one...
 
-Ondrei Hornat
+Ondrei Hornat  
 c3328588 - University of Newcastle.
